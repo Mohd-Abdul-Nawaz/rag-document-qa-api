@@ -1,0 +1,9 @@
+Acme Corp provides AI agent solutions for enterprise automation. Our platform supports LangGraph, MCP, and RAG architectures.
+
+LangGraph is a library for building stateful, multi-agent applications using LLMs. It features checkpoints for persistent execution and human-in-the-loop approval workflows.
+
+MCP (Model Context Protocol) is an open standard that enables AI agents to securely connect to external tools, databases, and enterprise systems. MCP servers expose tools that agents can discover and call.
+
+RAG (Retrieval-Augmented Generation) combines document retrieval with LLM generation to produce accurate, grounded answers with cited sources.
+
+Our platform processes documents including PDFs, emails, and structured data. Customers can deploy agents on-premise or in the cloud with full observability and evaluation capabilities.

@@ -1,0 +1,8 @@
+# Keep Docker builds clean and small.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+chroma_db/
+faiss_index/
+*.log
